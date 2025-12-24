@@ -35,7 +35,3 @@ The player moves the turtle upward toward the finish line. Each successful cross
 
 https://github.com/user-attachments/assets/4fe1524e-9205-404a-ab99-44fc9398653b
 
-
-
-
-_Add a short GIF or screen recording of the gameplay here_
